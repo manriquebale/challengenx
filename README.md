@@ -21,6 +21,15 @@ Para iniciar el servidor, ejecuta el siguiente comando:
 npm start
 ```
 
+## Ejecución de Tests
+
+Este proyecto utiliza Jest para los tests.
+
+Ejecutar los tests con el siguiente comando:
+    ```sh
+    npm test
+    ```
+
 ## Uso de la API
 
 POST /names
